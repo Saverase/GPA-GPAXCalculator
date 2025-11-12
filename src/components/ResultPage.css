@@ -1,0 +1,12 @@
+.Result{
+    text-align: center;
+}
+.Result .Grade{
+    text-align: center;
+    font-size: 40px;
+    font-style: bold;
+    margin-bottom : 10px ;
+}
+.Result .Credit{
+    font-size: 20px;
+}

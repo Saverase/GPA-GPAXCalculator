@@ -1,0 +1,11 @@
+input{
+    border: solid gray 1px ; 
+    border-radius:4px;
+    padding: 6px 0px ;
+    margin-right: 7px;
+    text-align: center;
+    width: 30%
+}
+.numInput{
+    min-width : 66px;
+}

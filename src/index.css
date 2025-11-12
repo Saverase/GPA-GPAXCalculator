@@ -1,0 +1,12 @@
+*{
+  transition: 0.3s;
+}
+button {
+  color: rgb(0, 0, 0);
+  border: none;
+  cursor: pointer;
+  border-radius: 12px;
+  font-size:18px;
+  
+}
+

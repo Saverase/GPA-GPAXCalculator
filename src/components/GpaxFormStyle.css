@@ -1,0 +1,32 @@
+.Gpaxform{
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    padding-left: 20px;
+
+}
+.Gpaxform label{
+    font-family: kanit;
+}
+.AddTime{
+    display : flex;
+    align-items: center;
+    
+}
+.AddTime input {
+    margin-left : 10px ;
+    
+}
+h2{
+    margin : 5px 0px ;
+
+}
+.timeDisplay{
+    margin-right:10px;
+}
+@media (max-width: 534px) {
+    .Gpaxform{
+        padding-left : 0px ;
+    }
+    
+}

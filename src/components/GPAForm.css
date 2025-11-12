@@ -1,0 +1,40 @@
+*{
+    font-family: kanit ;
+    color:antiquewhite;
+    
+    
+}
+.GPAForm{
+    margin-left:20px;
+    justify-self: center;
+}
+.addRowButton{
+    padding: 0 ;
+    width : 40px;
+    height : 30px;
+    font-size: auto;
+    background-color: antiquewhite;
+}
+.addRowButton:hover{
+    transform: scale(1.1); 
+}
+.delRowButton{
+    font-size: 20px ;
+    border: solid rgb(17, 16, 19) ;
+    justify-self: center;
+}
+.delRowButton:hover{
+    transform: scale(1.1); 
+}
+h2{
+    font-size:40px ;
+    
+}
+
+@media (max-width: 534px) {
+    .GPAForm{
+        margin-left : 0px;
+    }
+    
+}
+
